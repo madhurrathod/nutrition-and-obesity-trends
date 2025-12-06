@@ -1,5 +1,5 @@
 # nutrition-and-obesity-trends
-In this project we've analysed the various factors that contribute to the health and nutrition of a person.
+In this project we've analysed the various factors that contributes to the obesity of a person.
 
 Team: Miner's Data
 Members: Madhur Rathod, Angelo Nelson, Ayush Kumar Singh
