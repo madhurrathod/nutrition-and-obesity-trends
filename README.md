@@ -1,6 +1,9 @@
 # nutrition-and-obesity-trends
 In this project we've analysed the various factors that contribute to the health and nutrition of a person.
 
+Team: Miner's Data
+Members: Madhur Rathod, Angelo Nelson, Ayush Kumar Singh
+
 Used three datasets for analysis
 1. 2025-food-environment-atlas-data.xlsx
 2. ObesityDataSet_raw_and_data_sinthetic.csv
